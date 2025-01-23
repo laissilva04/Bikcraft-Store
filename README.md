@@ -13,7 +13,7 @@
 
 ## 📝 Sobre
 
-A **BikCraft** é uma loja de bicicletas online. Este projeto tem como objetivo criar uma página inicial atraente e interativa para a loja, inicialmente construída com HTML e CSS. Embora esteja incompleto, a próxima etapa será utilizar **React.js** para aprimorar a interatividade e a experiência do usuário.
+A **BikCraft** é uma loja de bicicletas online. Este projeto tem como objetivo criar uma página inicial atraente e interativa para a loja, inicialmente construída com HTML e CSS. Embora esteja incompleto, a próxima etapa será utilizar **React.js** para aprimorar a interatividade e a experiência do usuário e finalizar a estrutura e estilização usando html e css.
 
 
 ---
