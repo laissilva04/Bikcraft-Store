@@ -1,0 +1,18 @@
+
+/*aplicando css utilitario*/
+
+/*global*/
+@import url(./global/header.css);
+@import url(./global/global.css);
+
+
+/*home*/
+@import url(./home/introducao.css);
+
+/*utilidades*/
+@import url(./utilidades/componentes.css);
+@import url(./utilidades/cores.css);
+@import url(./utilidades/tipografia.css);
+
+/*bicicletas*/
+@import url(./bicicletas/bicicletas-lista.css);
