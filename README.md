@@ -4,8 +4,8 @@
 
 
 <div style="display: flex; justify-content: center; gap: 20px;">
-  <img src="https://github.com/user-attachments/assets/c59c41d2-e117-4419-9e7d-2816175a4643" alt="Página inicial da Bikcraft" width="500px" ">
-  <img src="https://github.com/user-attachments/assets/35fe7c0f-b58c-443a-8f49-14ff12179e3d" alt="Escolha sua bicicleta" width="500px" ">
+  <img src="https://github.com/user-attachments/assets/c59c41d2-e117-4419-9e7d-2816175a4643" alt="Página inicial da Bikcraft" width="400px" ">
+  <img src="https://github.com/user-attachments/assets/35fe7c0f-b58c-443a-8f49-14ff12179e3d" alt="Escolha sua bicicleta" width="400px" ">
 </div>
 
 
